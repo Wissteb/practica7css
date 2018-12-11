@@ -1,0 +1,42 @@
+
+body {
+  background-color: hsl(145, 71%, 30%);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  font-size: 350%;
+  text-transform: capitalize;
+}
+
+p {
+  font-size: 165%;
+}
+
+
+.pajaro {
+ color: hsl(35, 100%, 85%);
+ 
+ 
+} 
+
+.nino {
+  
+  font-family: serif;
+  font-style: oblique;
+  color: white;
+
+}
+
+
+.mentira {
+  color: orange;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 180%;
+  font-weight: bold;
+}
+
+.cero {
+  color: rgb(226, 57, 57);
+  font-family: cursive;
+}
